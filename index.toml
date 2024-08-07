@@ -36005,6 +36005,11 @@ hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
 metafile = true
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "770eecbe4f48d87bba10ecfc9f22d9d7e2ed739d9431dd7d528062b11853f79f"
 metafile = true
