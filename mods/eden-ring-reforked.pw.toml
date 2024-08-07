@@ -1,0 +1,13 @@
+name = "Eden Ring Reforked"
+filename = "eden-ring-20.1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f81e7d1fba41e0a15f0d746fdf0fe4a5a2507262"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5201492
+project-id = 972090

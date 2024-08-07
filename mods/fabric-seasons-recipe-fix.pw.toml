@@ -1,0 +1,13 @@
+name = "Fabric Seasons Recipe Fix"
+filename = "fabricseasonsrecipefix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5de71a0f3ebcdd8fe20ff083d9f3196f02fe74d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5342553
+project-id = 1018410

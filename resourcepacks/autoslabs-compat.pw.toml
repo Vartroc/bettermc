@@ -1,0 +1,13 @@
+name = "Autoslabs Compat"
+filename = "AutoslabsCompat.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef51428bc19ed9651bf6d2fcb1ceb6ec7a6b2b06"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5289172
+project-id = 1006123

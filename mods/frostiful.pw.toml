@@ -1,0 +1,13 @@
+name = "Frostiful"
+filename = "frostiful-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3baba69447c0db3da70f86a3613a8e4bc4da47b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5292642
+project-id = 715248
